@@ -5,6 +5,6 @@ import {NgModule} from "@angular/core";
     providers: [TimeFrame]
 
 })
-export class TimeModule {
+export class NgTimeModule {
 
 }
