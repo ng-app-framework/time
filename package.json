@@ -1,6 +1,6 @@
 {
   "name": "@ng-app-framework/time",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "license": "MIT",
   "keywords": [
     "ng-app",
@@ -48,7 +48,6 @@
     "karma-spec-reporter": "0.0.26",
     "ng-packagr": "^1.6.0",
     "node-sass": "^4.3.0",
-
     "ts-node": "^1.2.1",
     "tslint": "^5.8.0",
     "typescript": "^2.6.2",
